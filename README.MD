@@ -6,39 +6,20 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
+    Podcast "O Excelente Escritório: Maximizando sua Produtividade"
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <Video e Audio src="https://www.youtube.com/watch?v=beFrqJ2XzNc" controls title="Podcast IA_Excel"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+# Projeto Podcast Gerado por I.A.s - > "O Excelente Escritório: Maximizando sua Produtividade"
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -46,7 +27,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
@@ -61,10 +41,39 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
+
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado no uso da I.A. no dia a dia com o uso do software Excel. De nomes criativos ocado no uso da I.A. no dia a dia com o uso do software Excel para a galera jovem, e que tenha algum trocadilho com a serie The Ofice no nome
+O podcast vai falar sobre dicas de Excel no mundo corporativo e o que está acontecendo no mercado de trabalho
+{REGRAS}
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho com a série The Ofice.
+- O nome deve conter alguma palavra forte que remeta a Produtividade
+{REGRAS NEGATIVAS}
+- Não quero que o título contenha palavras em inglês
+- Não quero que utilize nenhuma das palavras nessa lista: Javascript, programador
+- Não utilize a palavra programador no nome nem qualquer variação dela
+
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+
+[Arthur Koch]:
+E aí, galera! Beleza? Aqui é o Felipão, e estamos de volta com mais um episódio de "O Excelente Escritório: Maximizando sua Produtividade". Mas antes de mergulharmos nesse mar de dicas e truques, vamos começar com uma curiosidade que vai te surpreender!
+
+[I.Ana]
+Sabe aquela sugestão de palavra quando você está digitando uma mensagem no seu celular? Isso é inteligência artificial em ação! Ela aprende com o que você digita e sugere palavras com base nesse aprendizado. Incrível, não é mesmo? E o melhor de tudo é que a inteligência artificial também está presente no Excel, ajudando a automatizar tarefas e tornar sua vida mais fácil.
+
+[Arthur Koch]
+Você sabia que o Excel possui uma ferramenta chamada "Análise de Dados"? Com a ajuda da inteligência artificial, essa ferramenta é capaz de realizar análises complexas em seus dados com apenas alguns cliques. Ela pode te ajudar a identificar tendências, padrões e até mesmo prever resultados futuros. É como ter um cientista de dados ao seu lado!
+
+[I.Ana]
+Já ouviu falar da função "Ideias"? Essa é outra funcionalidade incrível do Excel alimentada pela inteligência artificial. Com ela, o Excel analisa seus dados e sugere automaticamente diferentes maneiras de apresentá-los, como gráficos e tabelas dinâmicas. É uma forma rápida e fácil de transformar seus dados em insights poderosos.
+
+[Arthur Koch]:
+E é isso, pessoal! Espero que tenham gostado das dicas de hoje. Fiquem ligados para mais episódios cheios de truques para dominar o Excel e a inteligência artificial. Eu sou Arthur Koch e IAna e esse foi "O Podcast sobre Excel e IA para Jovens Profissionais". Até a próxima!
+
 
 ## 👨‍💻 Expert
+
+https://www.youtube.com/watch?v=beFrqJ2XzNc
 
 <p>
     <img 
@@ -73,27 +82,9 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+
 </p>
 <br/><br/>
 <p>
 
----
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
